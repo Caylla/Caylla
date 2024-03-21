@@ -11,7 +11,7 @@ My journey has been one of continuous learning and growth, and I'm excited to se
 
 Projects and Learning Journey
 
-📂 Welcome to my GitHub repository! Here's where I showcase my projects and document my learning journey. I'm passionate about taking on new challenges, so my GitHub is constantly updated with fresh content.
+📂 Here's where I showcase my projects and document my learning journey. I'm passionate about taking on new challenges, so my GitHub is constantly updated with fresh content.
 
 Feel free to explore my projects, provide feedback, or collaborate on exciting new ventures. Together, let's push the boundaries of what's possible with data!
 
